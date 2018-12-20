@@ -1,0 +1,5 @@
+*.save
+*.pyc
+*.h5
+*.mat
+*.avi
